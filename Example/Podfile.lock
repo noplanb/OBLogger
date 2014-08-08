@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.3.1)
+  - OBLogger (0.1.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - OBLogger (from `../`)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  OBLogger:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  OBLogger: 26b9b1ecab1717c669574f8afb9c431c6bea92af
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1
